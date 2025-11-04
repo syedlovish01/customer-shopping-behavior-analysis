@@ -76,7 +76,7 @@ Based on the analysis, the following strategic recommendations are proposed:
 
 ## 📁 Repository Structure
 
-* `/Customer Shopping Behavior Analysis.pdf`: Final project report.
+* https://github.com/syedlovish01/customer-shopping-behavior-analysis/blob/cbd2bc5aa77671a7fa0d7d5945ab97652779588c/Customer%20Shopping%20Behavior%20Analysis.pdf: Final project report.
 * https://github.com/syedlovish01/customer-shopping-behavior-analysis/blob/7f29ae7ea2cc7c9abea4ccf70d41a86ac10ce12e/Customer-Shopping-Behavior-Analysis.pptx.pptx: Summary presentation slides.
 * https://github.com/syedlovish01/customer-shopping-behavior-analysis/blob/02c5140268a7372416c1573d099ca7535943fff0/customer_behavior_sql_queries.sql: All 10 SQL queries used for the analysis.
 ##                                               Screenshot of the final Power BI dashboard.
