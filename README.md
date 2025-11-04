@@ -1,4 +1,4 @@
-👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
+## 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
 
 This project performs an end-to-end analysis of customer shopping behavior based on 3,900 transactional records[cite: 3]. [cite_start]The goal is to uncover actionable insights into spending patterns, customer segments, product preferences, and subscription behavior to inform strategic business decisions[cite: 4, 110, 111].
 
