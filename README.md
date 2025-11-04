@@ -1,7 +1,7 @@
 # customer-shopping-behavior-analysis
 End-to-end analysis of customer shopping behavior using Python (Pandas) for cleaning, PostgreSQL for SQL insights, and Power BI for visualization.
 
-# Customer Shopping Behavior Analysis
+# Customer Shopping Behavior Analysis Portfolio Project
 
 [cite_start]This project performs an end-to-end analysis of customer shopping behavior based on 3,900 transactional records[cite: 3]. [cite_start]The goal is to uncover actionable insights into spending patterns, customer segments, product preferences, and subscription behavior to inform strategic business decisions[cite: 4, 110, 111].
 
