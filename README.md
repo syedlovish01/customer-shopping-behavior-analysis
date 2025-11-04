@@ -79,5 +79,5 @@ Based on the analysis, the following strategic recommendations are proposed:
 * `/Customer Shopping Behavior Analysis.pdf`: Final project report.
 * `/Customer-Shopping-Behavior-Analysis.pptx`: Summary presentation slides.
 * `/customer_behavior_sql_queries.sql`: All 10 SQL queries used for the analysis.
-* `/[images/dashboard.png](https://github.com/syedlovish01/customer-shopping-behavior-analysis/blob/020d7c5e7742a743c73e67d99e3fbb70c579867a/customer_dashboard.jpeg)`: Screenshot of the final Power BI dashboard.
+* [images/dashboard.png](https://github.com/syedlovish01/customer-shopping-behavior-analysis/blob/020d7c5e7742a743c73e67d99e3fbb70c579867a/customer_dashboard.jpeg): Screenshot of the final Power BI dashboard.
 * `README.md`: This file.
