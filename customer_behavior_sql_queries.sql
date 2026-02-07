@@ -3,12 +3,10 @@ select gender, SUM(purchase_amount) as revenue
 from customer
 group by gender
 
-
 --Q2. Which customers used a discount but still spent more than the average purchase amount? 
 select customer_id, purchase_amount 
 from customer 
 where discount_applied = 'Yes' and purchase_amount >= (select AVG(purchase_amount) from customer)
-
 
 -- Q3. Which are the top 5 products with the highest average review rating?
 select item_purchased, round(avg(review_rating::numeric),2) as "Average Product Rating"
@@ -41,7 +39,6 @@ FROM customer
 GROUP BY item_purchased
 ORDER BY discount_rate DESC
 LIMIT 5;
-
 
 --Q7. Segment customers into New, Returning, and Loyal based on their total 
 -- number of previous purchases, and show the count of each segment. 
@@ -86,3 +83,4 @@ FROM customer
 GROUP BY age_group
 
 ORDER BY total_revenue desc;
+
